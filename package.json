@@ -1,0 +1,26 @@
+{
+  "name": "react-native-pulse-anim",
+  "version": "1.0.6",
+  "description": "<h1 align=\"center\">Pulse Animation for React Native</h1> <p align=\"center\">tinder-like loader for your react native app</p>",
+  "main": "PulseAnim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wissile/react-native-pulse-anim.git"
+  },
+  "keywords": [],
+  "author": "Wissile Sogoyou",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.27"
+  },
+  "bugs": {
+    "url": "https://github.com/wissile/react-native-pulse-anim/issues"
+  },
+  "homepage": "https://github.com/wissile/react-native-pulse-anim#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
