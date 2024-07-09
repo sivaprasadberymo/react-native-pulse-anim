@@ -14,7 +14,7 @@
   "author": "Wissile Sogoyou",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.27"
+    "react-native": "^0.71.8"
   },
   "bugs": {
     "url": "https://github.com/wissile/react-native-pulse-anim/issues"
